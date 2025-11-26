@@ -88,9 +88,9 @@ Interpretation
 * Features like Latitude and Longitude also show moderate correlation.
 
 This baseline model successfully demonstrates:
-✔ Clear preprocessing
-✔ Standard training workflow
-✔ Proper evaluation metrics
+  Clear preprocessing, 
+  Standard training workflow, 
+  Proper evaluation metrics,
 
 Correlation Heatmap
 
